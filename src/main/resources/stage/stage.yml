@@ -1,0 +1,19 @@
+name: "stage-name"
+stage:
+  # ここの値は変更しないでください。
+  area:
+    # location
+    corner1:
+    corner2:
+  spawn:
+    team1:
+    team2:
+kit:
+  # if you set false,players can use themselves items.
+  use: true
+  name: "kit-name"
+game:
+  # ゲーム時間(秒)
+  time: 180
+  # ゲームの途中参加
+  midway-join: true

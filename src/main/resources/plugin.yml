@@ -1,0 +1,9 @@
+name: TeamPVP
+version: @version@
+author: testusuke
+main: net.testusuke.teampvp.Main
+website: htpps://testusuke.net
+commands:
+  team:
+  teampvp:
+

@@ -1,0 +1,15 @@
+prefix: "&6[TeamPVP]"
+
+# TeamSetting
+team:
+  # チームメンバーの最大数
+  max-player: 5
+  # チームメンバーの最小数 参加者の数がこの値を超えた場合、カウントダウンを開始します。
+  min-player: 1
+# PartySetting
+party:
+  # team.max-playerより大きい値を設定しないでください。team.max-player >= party.max-player
+  max-player: 5
+# KitSetting
+kit:
+
